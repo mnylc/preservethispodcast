@@ -21,7 +21,7 @@ $navbar-background-color: rgba(255,255,255,0);
 $footer-background-color: $primary;
 $navbar-burger-color: $white;
 
-@import '../node_modules/bulma/bulma';
+@import '/assets/node_modules/bulma/bulma';
 
 @mixin strong-type() {
 	text-transform:uppercase;
