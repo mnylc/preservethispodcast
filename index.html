@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{% include base.html %}
 <section id="intro" class="hero is-fullheight">
   	<div class="hero-body">
 		<div class="container">
@@ -118,7 +118,7 @@ layout: default
 		<div class="columns is-centered">
 			<div class="column is-half-widescreen">
 				<a class="preview" href="{{ site.data.content.zine_link }}">
-					<img src="{{ '/assets/images/zine.png' | relative_url }}" alt="Preserve Your Podcast Zine">
+					<img src="{{base}}/assets/images/zine.png" alt="Preserve Your Podcast Zine">
 				</a>
 				<div class="box">
 					<div class="content">
