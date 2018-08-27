@@ -1,0 +1,348 @@
+$fa-font-path: "/assets/node_modules/@fortawesome/fontawesome-free/webfonts";
+
+@import '../node_modules/@fortawesome/fontawesome-free/scss/solid';
+@import '../node_modules/@fortawesome/fontawesome-free/scss/brands';
+@import '../node_modules/@fortawesome/fontawesome-free/scss/fontawesome';
+
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand+SC|Poppins:200,400,700');
+
+$primary: #D79C34;
+$primary-light: #F9E5D0;
+$blue: #20285C;
+$pink: #ECB6B8;
+$pink-light: #F5DBDC;
+$white: #FFFFFF;
+
+$family-primary:  'Poppins', sans-serif;
+$family-secondary: 'Patrick Hand SC', cursive;
+
+$radius-small: 0px;
+$radius: 0px;
+$radius-large: 0px;
+
+$navbar-background-color: rgba(255,255,255,0);
+$footer-background-color: $primary;
+$navbar-burger-color: $white;
+
+@import '../node_modules/bulma/bulma';
+
+@mixin strong-type() {
+	text-transform:uppercase;
+	font-weight:$weight-bold;
+	letter-spacing:.66px;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+  
+main {
+  flex: 1;
+}
+
+.button {
+	@include strong-type();
+	&.is-small {
+		letter-spacing:.33px;
+	}
+	&.is-large {
+		letter-spacing:1.5px;
+	}
+}
+
+.box {
+	box-shadow:none;
+}
+
+header {
+	position:absolute;
+	top:$gap/2;
+	width:100%;
+	z-index:1;
+	transition: background .3s;
+	h1 {
+		background:$blue;
+		color:$white;
+		padding: $button-padding-vertical $button-padding-horizontal;
+		font-size:$size-5;
+		font-weight:$weight-bold;
+		letter-spacing:.66px;
+		transition: padding-left .3s;
+	}
+	nav {
+		a {
+			@include strong-type();
+			display:block;
+			margin:10px 0 9px 1.5rem;
+			color:$blue;
+			transition: color .3s;
+		}
+	}
+	nav.navbar { min-height:0; }
+	@include desktop {
+		nav.navbar {
+			float:right;
+			min-height:0;
+			padding-right: 1.5rem;
+			transition: padding-right .3s;
+			a {
+				display:inline-block;
+			}
+		}
+	}
+
+	.navbar-burger, .navbar-burger:hover {
+		margin-top:0;
+		margin-bottom:0;
+		height:43px;
+		width:43px;
+		background:$blue;
+		span {
+			height:2px;
+			background:$white;
+		}
+	}
+	.navbar-menu.is-active {
+		background:$white;
+		padding:20ƒpx 0;
+		position:fixed;
+		top:0;
+		width:100%;
+	}
+
+	&.sticky {
+	  position: fixed;
+	  top: 0;
+	  width: 100%;
+	  background:$blue;
+
+	  @include desktop {
+	  	h1 {
+	  		padding-left:10px;
+	  	}
+		nav.navbar {
+			padding-right:10px;
+	  		a {
+	  			color:$white;
+	 		}
+		}
+	  }
+	}
+}
+
+.section {
+	padding-top:$gap*1.5;
+	padding-bottom:$gap*1.5;
+}
+
+section#intro {
+	background:$primary;
+	position:relative;
+	h2 {
+		font-size:$size-1;
+		color:$white;
+		font-weight:$weight-bold;
+		padding:$gap/2 0;
+		@include mobile {
+			font-size: 1.5rem;
+		}
+	}
+	a {
+		display:block;
+		text-align:center;
+		position:absolute;
+		bottom:32px;
+		left:50%;
+		transform:translateX(-50%);
+		color:$white;
+
+		@include strong-type();
+		div {
+			display:block;
+			margin-bottom:$gap/8;
+		}
+		.icon {
+			transform:rotate(90deg);
+			background:$blue;
+			border-radius:50%;
+			i {
+				padding-left:3px;
+			}
+		}
+	}
+	&:before {
+		content:"";
+		display:block;
+		position:absolute;
+		height:100%;
+		width:100%;
+		z-index:0;
+		opacity:.15;
+		background: url('../images/splash.gif') no-repeat center center;
+		background-size:contain;
+		@include touch(){
+			background-image: url('../images/splash_mobile.gif');
+		}
+	}
+}
+
+section#episodes {
+	background:$blue;
+	h2 {
+		color:$white;
+		margin-bottom:$gap/4;
+		font-size:$size-3;
+		font-weight:$weight-bold;
+		letter-spacing:.66px;
+		@include mobile {
+			font-size: $size-5;
+		}
+	}
+	.box {
+		.count {
+			display:block;
+			color:$white;
+			background:$pink;
+			font-weight:$weight-bold;
+			font-size:$size-3;
+			border-radius:50%;
+			height:45px;
+			width:45px;
+			text-align:center;
+			padding:0 2px 3px 0;
+		}
+		h3 {
+			font-family: $family-secondary;
+			font-size:$size-3;
+			line-height:$size-3;
+			font-weight:bold;
+			margin-bottom:.5rem;
+		}
+		a:not(.button) {
+			text-decoration:underline;
+		}
+		a.player-button {
+			display:block;
+			@include tablet {
+				float:right;
+			}
+		}
+	}
+	#player-container {
+		display:block;
+		position:fixed;
+		z-index:10;
+		bottom:0;
+		right:12px;
+		width:360px;
+	}
+}
+
+#subscribe {
+	a {
+		color:$blue;
+		text-decoration:underline;
+		transition: opacity .3s;
+		&:hover {
+			opacity:.9;
+		}
+	}
+	img {
+		display:inline-block;
+		max-height:72px;
+	}
+}
+
+section#zine {
+
+	.box {
+		background: $pink-light;
+		height:100%;
+		width:100%;
+
+		h2 {
+			color:$white;
+			background:$blue;
+			padding: $button-padding-vertical $button-padding-horizontal;
+			margin-left:-$box-padding;
+		}
+	}
+
+	a.preview {
+		display:block;
+		text-align:center;
+		margin-bottom:$gap*.75;
+		img {
+			vertical-align:bottom;
+		}
+
+		@include tablet {
+			float:right;
+			height:100%;
+			margin-left:$button-padding-horizontal;
+			margin-bottom:0;
+			img {
+				height:100%;
+			}
+		}
+	}
+}
+
+section#events {
+	background:$primary-light;
+
+	.box {
+		color:$white;
+		background: $blue;
+
+		h2 {
+			color:$blue;
+			background:$pink;
+			padding: $button-padding-vertical $button-padding-horizontal;
+			margin-left:-$box-padding;
+		}
+
+		.event {
+			border-top: 2px solid $pink;
+			padding: $gap/8 0 $gap/4;
+			h3 {
+				font-family: $family-secondary;
+				font-size:$size-3;
+				font-weight:bold;
+			}
+		}
+	}
+}
+
+section#survey {
+	background:$pink;
+
+	.box {
+		padding:30px;
+
+		@include mobile {
+			h2 {
+				font-size: 1.5rem;
+			}
+		}
+	}
+
+	.box small {
+		font-family:$family-secondary;
+	}
+}
+
+footer.footer {
+	padding:12px 24px;
+	font-family:$family-secondary;
+	color: $white;
+	a, a:hover {
+		color:$white;
+		text-decoration:underline;
+	}
+	a:hover {
+		opacity:.9;
+	}
+}

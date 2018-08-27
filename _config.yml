@@ -1,0 +1,25 @@
+title: Preserve This Podcast
+description: Preserve This Podcast is a project funded by the Andrew W. Mellon Foundation. We want to make sure that podcasts don’t disappear as software formats change and RSS hosting services go down. 
+baseurl: ""
+url: "http://www.preservethispodcast.org"
+
+# Markdown settings
+markdown: kramdown
+
+# Sass settings
+sass:
+  add_charset: true
+  sass_dir: assets/sass
+  style: :compressed
+
+# Build settings
+exclude:
+  - package.json
+  - README.md
+  - CNAME
+  - assets/sass
+
+# Plugin settings
+plugins_dir:
+  - jekyll-feed
+  - jekyll-sitemap

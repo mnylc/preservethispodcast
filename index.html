@@ -1,0 +1,177 @@
+---
+layout: default
+---
+
+<section id="intro" class="hero is-fullheight">
+  	<div class="hero-body">
+		<div class="container">
+			<div class="columns is-centered is-vcentered">
+				<div class="column is-fullwidth has-text-centered">
+					<h2>
+						Think like an archivist.
+						<br />
+						Preserve your podcast.
+					</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+	<a href="#episodes">
+		<div>Follow these steps</div>
+		<span class="icon is-large">
+		  <i class="fas fa-l2x fa-play"></i>
+		</span>
+	</a>
+</section>
+
+<section id="episodes" class="section" name="episodes">
+	<div class="container">
+		<h2>Our podcast explains four easy steps to archive your work.</h2>
+		{% for episode in site.data.content.episodes %}
+
+{% if episode.transcript_file %}
+{% assign transcript_path = 'transcripts/'| append: episode.transcript_file | append: '.md' %}
+{% capture transcript_content %}{% include_relative {{transcript_path}} %}{% endcapture %}
+<div class="modal" id="transcript-{{ forloop.index }}">
+	<div class="modal-background"></div>
+	<div class="modal-content">
+		<div class="box">
+			<div class="content">
+	  			{{ transcript_content | markdownify }}
+	  		</div>
+		</div>
+	</div>
+	<button class="modal-close is-large" aria-label="close"></button>
+</div>
+{% endif %}
+
+		<div class="box">
+			<div class="columns is-vcentered">
+			<div class="column">
+
+			<div class="columns is-vcentered is-mobile">
+				<div class="column is-narrow">
+					<span class="count">
+						{{ forloop.index }}
+					</span>
+				</div>
+				<div class="column">
+					<h3>{{ episode.name }}</h3>
+					<a href="{{ episode.download_link }}">Download episode</a>{% if episode.transcript_file %}&nbsp;&nbsp;|&nbsp;&nbsp;<a data-modal="#transcript-{{ forloop.index }}" href="#">Read transcript</a>{% endif %}{% if episode.exercises_link %}&nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{ episode.exercises_link }}" target="_blank">Do the exercises</a>{% endif %}
+				</div>
+			</div>
+
+			</div>
+			<div class="column is-narrow">
+					<a href="{{ episode.download_link }}" data-embed-link="{{ episode.embed_link }}" class="button is-primary is-large player-button">
+						<span class="icon">
+						  <i class="fas fa-play"></i>
+						</span>&nbsp;
+						Play
+					</a>
+			</div>
+			</div>
+		</div>
+		{% endfor %}
+
+		<a class="button is-primary is-small" data-modal="#subscribe" href="#">
+			<span class="icon">
+			  <i class="fas fa-rss"></i>
+			</span>&nbsp;
+			Subscribe
+		</a>
+
+	</div>
+	<div id="player-container"></div>
+</section>
+<div class="modal" id="subscribe">
+	<div class="modal-background"></div>
+	<div class="modal-content">
+		<div class="box">
+			<div class="content has-text-centered">
+	  			<h2>
+	  				Subscribe on...
+	  			</h2>
+	  			<div class="columns">
+	  				{% if site.data.content.applepodcasts_link %}
+	  				<div class="column">
+	  					<strong><a href="{{ site.data.content.applepodcasts_link }}">
+	  						<img src="{{ '/assets/images/apple_icon.svg' | relative_url }}" alt="Subscribe on Apple Podcasts"><br />
+	  						Apple Podcasts</a></strong>
+	  				</div>
+	  				{% endif %}
+	  				{% if site.data.content.googlepodcasts_link %}
+	  				<div class="column">
+	  					<strong><a href="{{ site.data.content.googlepodcasts_link }}">
+	  						<img src="{{ '/assets/images/google_icon.svg' | relative_url }}" alt="Subscribe on Google Podcasts"><br />
+	  						Google Podcasts</a></strong>
+	  				</div>
+	  				{% endif %}
+	  			</div>
+	  			{% if site.data.content.radiopublic_link %}<a href="{{ site.data.content.radiopublic_link }}">Radiopublic</a>{% endif %}{% if site.data.content.stitcher_link %}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="{{ site.data.content.stitcher_link }}">Stitcher</a>{% endif %}{% if site.data.content.rss_link %}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="{{ site.data.content.rss_link }}">RSS Feed</a>{% endif %}
+	  		</div>
+		</div>
+	</div>
+	<button class="modal-close is-large" aria-label="close"></button>
+</div>
+<section id="zine" class="section" name="zine">
+		<div class="columns is-centered">
+			<div class="column is-half-widescreen">
+				<a class="preview" href="{{ site.data.content.zine_link }}">
+					<img src="{{ '/assets/images/zine.png' | relative_url }}" alt="Preserve Your Podcast Zine">
+				</a>
+				<div class="box">
+					<div class="content">
+					<h2 class="is-inline-block">The Zine</h2>
+					<p><strong>We recommend you print out the zine and follow along as you listen to the podcast.</strong></p>
+					<p>Here are a few sentences that describe the zine and make you want to read it. Here are a few sentences that describe the zine and make you want to read it. Here are a few sentences that describe the zine.</p>
+					<a href="{{ site.data.content.zine_link }}" class="button is-primary is-large is-marginless">Read It</a>
+					</div>
+				</div>
+			</div>
+		</div>
+</section>
+<section id="events" class="section" name="events">
+
+	<div class="columns is-centered">
+		<div class="column is-half-desktop">
+			<div class="box">
+				<div class="content">
+					<h2 class="is-inline-block">Attend a Workshop</h2>
+					<p>Here's some copy introducting the workshops that describes their value and gets visitors excited about attending!</p>
+				</div>
+
+				{% for event in site.data.content.events %}
+				<div class="event">
+					<div class="columns is-vcentered">
+						<div class="column">
+							<h3>{{ event.name }}</h3>
+							<p>{{ event.when }}{% if event.when and event.where %}&nbsp;&nbsp;|&nbsp;&nbsp;{% endif %}{{ event.where }}</p>
+						</div>
+						<div class="column is-narrow">
+							<a href="{{ event.url }}" target="_blank" class="button is-primary">
+								RSVP
+							</a>
+						</div>
+					</div>
+				</div>
+				{% endfor %}
+
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="survey" class="section">
+	<div class="columns is-centered">
+		<div class="column is-half">
+			<div class="box has-text-centered">
+				<div class="content">
+					<h2>Help us learn more about your podcast’s production!</h2>
+					<a href="{{ site.data.content.survey_link }}" class="button is-primary is-large">Take our survey</a>
+					<small class="is-block">It will only take three minutes!</small>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
