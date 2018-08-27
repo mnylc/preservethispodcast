@@ -19,9 +19,6 @@ exclude:
   - CNAME
   - assets/sass
 
-include:
-  -node_modules
-
 # Plugin settings
 plugins_dir:
   - jekyll-feed
