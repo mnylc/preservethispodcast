@@ -1,9 +1,6 @@
 $fa-font-path: "/assets/node_modules/@fortawesome/fontawesome-free/webfonts";
 
-@import '../node_modules/@fortawesome/fontawesome-free/scss/solid';
-@import '../node_modules/@fortawesome/fontawesome-free/scss/brands';
-@import '../node_modules/@fortawesome/fontawesome-free/scss/fontawesome';
-
+@import url('https://use.fontawesome.com/releases/v5.2.0/css/all.css');
 @import url('https://fonts.googleapis.com/css?family=Patrick+Hand+SC|Poppins:200,400,700');
 
 $primary: #D79C34;
