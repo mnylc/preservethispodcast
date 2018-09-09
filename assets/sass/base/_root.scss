@@ -292,6 +292,7 @@ section#events {
 
 	.box {
 		color:$white;
+		p a { color:$white; text-decoration: underline; }
 		background: $blue;
 
 		h2 {
@@ -341,5 +342,14 @@ footer.footer {
 	}
 	a:hover {
 		opacity:.9;
+	}
+}
+
+#generic {
+	.content a {
+		text-decoration:underline;
+	}
+	@include desktop() {
+		padding-top:$gap*2;
 	}
 }

@@ -10,21 +10,21 @@ stitcher_link: #
 radiopublic_link: # 
 rss_link: #
 
-episodes:
-  - name: Prepare your Files for Archiving
-    embed_link: https://embed.radiopublic.com/e?if=SongExploder&ge=s1!ff980151529d68e71f286e7e49ce7142b9d23bad
-    download_link: https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/song-exploder/b0fe9fa2-8522-4976-8717-4338844a93f7/SongExploder61_CourtneyBarnett_Reissue_DT.mp3
-    exercises_link: 
-    transcript_file: transcript1
-
-  - name: Prepare your Files for Archiving
-    embed_link: https://embed.radiopublic.com/e?if=SongExploder&ge=s1!ff980151529d68e71f286e7e49ce7142b9d23bad
-    download_link: https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/song-exploder/b0fe9fa2-8522-4976-8717-4338844a93f7/SongExploder61_CourtneyBarnett_Reissue_DT.mp3
-    exercises_link: http://google.com
-    transcript_file: 
+# episodes:
+#   - name: Prepare your Files for Archiving
+#     embed_link: https://embed.radiopublic.com/e?if=SongExploder&ge=s1!ff980151529d68e71f286e7e49ce7142b9d23bad
+#     download_link: https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/song-exploder/b0fe9fa2-8522-4976-8717-4338844a93f7/SongExploder61_CourtneyBarnett_Reissue_DT.mp3
+#     exercises_link: 
+#     transcript_file: transcript1
+# 
+#   - name: Prepare your Files for Archiving
+#     embed_link: https://embed.radiopublic.com/e?if=SongExploder&ge=s1!ff980151529d68e71f286e7e49ce7142b9d23bad
+#     download_link: https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/song-exploder/b0fe9fa2-8522-4976-8717-4338844a93f7/SongExploder61_CourtneyBarnett_Reissue_DT.mp3
+#     exercises_link: http://google.com
+#     transcript_file: 
 
 events:
-  - name: Sample event
-    when: 6/6/18 at 7:00pm
-    where: Metro Studio
-    url: #
+  - name: "Werk It 2018: A Women's Podcast Festival"
+    when: "11/13 + 11/14"
+    where: "Knockdown Center, NYC"
+    url: "https://www.werkitfestival.com/#2018-register"
