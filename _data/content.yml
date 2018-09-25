@@ -24,6 +24,10 @@ rss_link: #
 #     transcript_file: 
 
 events:
+  - name: "Sound Education"
+    when: "11/2 + 11/3"
+    where: "Cambridge, MA"
+    url: "https://www.soundeducation.fm/"
   - name: "Werk It 2018: A Women's Podcast Festival"
     when: "11/13 + 11/14"
     where: "Knockdown Center, NYC"
