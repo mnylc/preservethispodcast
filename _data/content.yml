@@ -32,3 +32,7 @@ events:
     when: "11/13 + 11/14"
     where: "Knockdown Center, NYC"
     url: "https://www.werkitfestival.com/#2018-register"
+  - name: "NY Tech Zine Fair"
+    when: "12/1"
+    where: "School for Poetic Computation 155 Bank St, NYC"
+    url: "http://techzinefair.org/"
