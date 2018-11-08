@@ -34,5 +34,6 @@ events:
     url: "https://www.werkitfestival.com/#2018-register"
   - name: "NY Tech Zine Fair"
     when: "12/1"
-    where: "School for Poetic Computation 155 Bank St, NYC"
+    where: "School for Poetic Computation, 155 Bank St. NYC"
     url: "http://techzinefair.org/"
+ 
