@@ -28,6 +28,10 @@ events:
     when: "12/1"
     where: "School for Poetic Computation, 155 Bank St. NYC"
     url: "http://techzinefair.org/"
+  - name: "ALA Annual Conference"
+    when: "6/20 - 6/25/2019"
+    where: "Washington, D.C."
+    url: "http://www.ala.org/conferencesevents/annual-conference"
     
 past_events:
   - name: "Werk It 2018: A Women's Podcast Festival"
