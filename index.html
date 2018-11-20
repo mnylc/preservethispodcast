@@ -175,7 +175,24 @@ layout: default
 					</div>
 				</div>
 				{% endfor %}
-
+<div class="content">
+  <h3 class="has-text-white">Past Events</h3>
+</div>
+{% for event in site.data.content.past_events %}
+<div class="event">
+	<div class="columns is-vcentered">
+		<div class="column">
+			<h3>{{ event.name }}</h3>
+			<p>{{ event.when }}{% if event.when and event.where %}&nbsp;&nbsp;|&nbsp;&nbsp;{% endif %}{{ event.where }}</p>
+		</div>
+		<div class="column is-narrow">
+			<a href="{{ event.url }}" target="_blank" class="button is-primary">
+				View Details
+			</a>
+		</div>
+	</div>
+</div>
+{% endfor %}
 			</div>
 		</div>
 	</div>
