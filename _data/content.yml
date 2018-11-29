@@ -32,7 +32,7 @@ events:
     when: "6/20 - 6/25/2019"
     where: "Washington, D.C."
     url: "http://www.ala.org/conferencesevents/annual-conference"
-  - name: "Preserve This Podcast Launch Party"
+  - name: "Launch Party"
     when: "3/21/2019"
     where: "METRO 599 11th Ave, NYC"
   - name: "Preserve Your Podcast Workshop"
