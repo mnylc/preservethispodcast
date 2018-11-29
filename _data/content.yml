@@ -35,9 +35,11 @@ events:
   - name: "Launch Party"
     when: "3/21/2019"
     where: "METRO 599 11th Ave, NYC"
+    url: "http://preservethispodcast.org/404tba.html"
   - name: "Preserve Your Podcast Workshop"
     when: "3/22/2019"
     where: "METRO 599 11th Ave, NYC"
+    url: "http://preservethispodcast.org/404tba.html"
     
 past_events:
   - name: "Werk It 2018: A Women's Podcast Festival"
