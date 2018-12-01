@@ -4,7 +4,7 @@
 	<nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-menu" id="navMenu">
 		<a href="{{ base }}/about.html">About</a>
-		<!-- HIDE FOR NOW  <a href="{{ site.data.content.survey_link }}" target="_blank">Survey</a> -->
+		{% if site.data.content.survey_link %} <a href="{{ site.data.content.survey_link }}" target="_blank">Survey</a>{% endif %}
 		{% if site.data.content.episodes %}<a href="{{ base }}/#podcast">Podcast</a>{% endif %}
 		<a href="{{ base }}/#zine">Zine</a>
 		<a href="{{ base }}/#events">Events</a>
