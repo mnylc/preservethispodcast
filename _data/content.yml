@@ -24,15 +24,11 @@ rss_link: #
 #     transcript_file: 
 
 events:
-  - name: "NY Tech Zine Fair"
-    when: "12/1"
-    where: "School for Poetic Computation, 155 Bank St. NYC"
-    url: "http://techzinefair.org/"
   - name: "ALA Annual Conference"
     when: "6/20 - 6/25/2019"
     where: "Washington, D.C."
     url: "http://www.ala.org/conferencesevents/annual-conference"
-  - name: "Launch Party"
+  - name: "Launch Party!"
     when: "3/21/2019"
     where: "METRO 599 11th Ave, NYC"
     url: "http://preservethispodcast.org/404tba.html"
@@ -42,11 +38,15 @@ events:
     url: "http://preservethispodcast.org/404tba.html"
     
 past_events:
+  - name: "NY Tech Zine Fair"
+    when: "12/1/2018"
+    where: "School for Poetic Computation, 155 Bank St. NYC"
+    url: "http://techzinefair.org/"
   - name: "Werk It 2018: A Women's Podcast Festival"
-    when: "11/13 + 11/14"
+    when: "11/13 + 11/14/2018"
     where: "Knockdown Center, NYC"
     url: "https://www.werkitfestival.com/#2018-register"
   - name: "Sound Education"
-    when: "11/2 + 11/3"
+    when: "11/2 + 11/3/2018"
     where: "Cambridge, MA"
     url: "https://www.soundeducation.fm/"
