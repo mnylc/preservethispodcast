@@ -36,9 +36,11 @@ events:
   - name: "Preserve Your Podcast Workshop"
     when: "3/22/2019"
     where: "METRO 599 11th Ave, NYC"
+    url: "http://preservethispodcast.org/404tba.html"
   - name: "The Center for Investigative Reporting Workshop"
     when: "5/11/2019"
     where: "Emeryville, CA"
+    url: "http://preservethispodcast.org/404tba.html"
   - name: "ALA Annual Conference"
     when: "6/20 - 6/25/2019"
     where: "Washington, D.C."
@@ -46,6 +48,7 @@ events:
   - name: "Center for Documentary Studies Workshop"
     when: "9/14/2019"
     where: "Durham, NC"
+    url: "http://preservethispodcast.org/404tba.html"
     
 past_events:
   - name: "NY Tech Zine Fair"
