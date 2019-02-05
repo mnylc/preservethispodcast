@@ -53,6 +53,10 @@ events:
     when: "9/14/2019"
     where: "Durham, NC"
     url: "http://preservethispodcast.org/404tba.html"
+  - name: "House of Pod"
+    when: "11/9/2019"
+    where: "Denver, CO"
+    url: "http://preservethispodcast.org/404tba.html"
     
 past_events:
   - name: "NY Tech Zine Fair"
