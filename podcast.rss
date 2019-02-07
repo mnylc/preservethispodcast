@@ -11,7 +11,7 @@
 		<language>{{ site.lang }}</language>
 		<managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
-		<copyright>2014-{{ site.time | "%Y" }} {{ site.title }}</copyright>
+		<copyright>2019-{{ site.time | "%Y" }} {{ site.title }}</copyright>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
@@ -35,11 +35,11 @@
 		<itunes:category text="Society &amp; Culture">
 			<itunes:category text="Philosophy" />
 		</itunes:category>
-		<itunes:explicit>yes</itunes:explicit>
-		{% for post in site.posts %}
+		<itunes:explicit>no</itunes:explicit>
+		{% for post in site.episodes %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
-				<link>{{ site.url }}{{ post.url }}</link>
+				<link>{{ post.file }}</link>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<description>{{ post.excerpt | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
