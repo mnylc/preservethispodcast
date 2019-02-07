@@ -20,9 +20,17 @@ exclude:
   - assets/sass
 
 # Plugin settings
-plugins_dir:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
+  
+feed:
+  collections:
+    episodes:
+      path: "/episodes.xml"
+
+collections:
+  episodes:
 
 # Podcast Feed Settings
 title:          Preserve-This-Podcast
