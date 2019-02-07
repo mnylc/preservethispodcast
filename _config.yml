@@ -38,6 +38,6 @@ email:          podcast@metro.org
 description:    "Preserve This Podcast is an Andrew W. Mellon grant-funded project hosted by the Metropolitan New York Library Council (METRO) to help podcasters protect their work against the threats of digital decay."
 subtitle:       "A podcast about saving your podcast."
 url:            http://preservethispodcast.org
-lang:           Eng
+language:           Eng
 author:         podPotato
 copyright:      "CC BY 4.0"
