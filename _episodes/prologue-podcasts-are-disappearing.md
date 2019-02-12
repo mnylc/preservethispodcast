@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prologue: Podcasts are Disappearing"
-date: 2019-02-05 15:20:00
+date: 2019-02-14 09:00:00
 file: https://ia801508.us.archive.org/17/items/PreserveThisPodcast-prologue-podcasts-are-disappearing/PTP_Prologue_MIX_-16LUFS_190206.mp3
 file_itunes: https://ia801508.us.archive.org/17/items/PreserveThisPodcast-prologue-podcasts-are-disappearing/PTP_Prologue_MIX_-16LUFS_190206.mp3
 excerpt: The lost history of podcasts.
@@ -12,4 +12,4 @@ explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 categories: episodes
 ---
-Here goes your regular article content in markdown
+
