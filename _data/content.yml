@@ -5,19 +5,19 @@ zinePrint_link: /assets/PreserveThisPodcast_Zine_Print.pdf
 survey_link: /#survey
 twitter_link: https://twitter.com/preservethispod
 
-applepodcasts_link: #
+applepodcasts_link: https://itunes.apple.com/us/podcast/preserve-this-podcast/id1451896473
 googlepodcasts_link: #
 stitcher_link: #
-radiopublic_link: # 
-rss_link: #
+radiopublic_link: https://radiopublic.com/preserve-this-podcast-WDJY3A 
+rss_link: http://preservethispodcast.org/podcast.rss
 
-# episodes:
-#   - name: Prepare your Files for Archiving
-#     embed_link: https://embed.radiopublic.com/e?if=SongExploder&ge=s1!ff980151529d68e71f286e7e49ce7142b9d23bad
-#     download_link: https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/song-exploder/b0fe9fa2-8522-4976-8717-4338844a93f7/SongExploder61_CourtneyBarnett_Reissue_DT.mp3
-#     exercises_link: 
-#     transcript_file: transcript1
-# 
+episodes:
+  - name: Prologue—Podcasts are Disappearing
+    embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!f8e4e63fe6cd7c55e2102b378758668d8d766f58
+    download_link: https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/song-exploder/b0fe9fa2-8522-4976-8717-4338844a93f7/SongExploder61_CourtneyBarnett_Reissue_DT.mp3
+    exercises_link: 
+    transcript_file: transcript-00prologue
+ 
 #   - name: Prepare your Files for Archiving
 #     embed_link: https://embed.radiopublic.com/e?if=SongExploder&ge=s1!ff980151529d68e71f286e7e49ce7142b9d23bad
 #     download_link: https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/song-exploder/b0fe9fa2-8522-4976-8717-4338844a93f7/SongExploder61_CourtneyBarnett_Reissue_DT.mp3
