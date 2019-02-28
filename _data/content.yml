@@ -8,14 +8,24 @@ twitter_link: https://twitter.com/preservethispod
 applepodcasts_link: https://itunes.apple.com/us/podcast/preserve-this-podcast/id1451896473
 googlepodcasts_link: #
 stitcher_link: https://www.stitcher.com/podcast/preserve-this-podcast?refid=stpr
+<<<<<<< HEAD
 radiopublic_link: https://radiopublic.com/preserve-this-podcast-WDJY3A
 rss_link: http://preservethispodcast.org/podcast.rss
+=======
+radiopublic_link: https://radiopublic.com/preserve-this-podcast-WDJY3A 
+rss_link: https://rss.simplecast.com/podcasts/10324/rss
+>>>>>>> 7deeb8b1782dbc077f7fa0d19f62257625b37090
 
 episodes:
   - name: Prologue—Podcasts are Disappearing
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!f8e4e63fe6cd7c55e2102b378758668d8d766f58
+<<<<<<< HEAD
     download_link: https://ia801508.us.archive.org/17/items/PreserveThisPodcast-prologue-podcasts-are-disappearing/PTP_Prologue_MIX_-16LUFS_190206.mp3
     exercises_link:
+=======
+    download_link: https://audio.simplecast.com/33c29a99.mp3
+    exercises_link: 
+>>>>>>> 7deeb8b1782dbc077f7fa0d19f62257625b37090
     transcript_file: transcript-00prologue
 
 #   - name: Prepare your Files for Archiving
@@ -33,7 +43,7 @@ events:
     when: "3/21/2019"
     where: "METRO 599 11th Ave, NYC"
     url: "https://www.eventbrite.com/e/who-saves-our-stories-for-the-future-a-preserve-this-podcast-launch-party-tickets-55237924118"
-  - name: "Preserve Your Podcast Workshop"
+  - name: "It's the year 2039. Where's your podcast? (A Preserve This Podcast workshop)"
     when: "3/22/2019"
     where: "METRO 599 11th Ave, NYC"
     url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-55599690170"
@@ -41,10 +51,17 @@ events:
     when: "5/11/2019"
     where: "Emeryville, CA"
     url: "http://preservethispodcast.org/404tba.html"
+<<<<<<< HEAD
   - name: "Outlier Podcast Festival"
     when: "5/18/2019"
     where: "Austin, TX"
     url: "http://www.outliercs.com/"
+=======
+ -  name: "Outlier Podcast Festival"
+    when: "5/18/2019"
+    where: "Austin, TX"
+    url: "http://outliercs.com/"    
+>>>>>>> 7deeb8b1782dbc077f7fa0d19f62257625b37090
   - name: "ALA Annual Conference"
     when: "6/20 - 6/25/2019"
     where: "Washington, D.C."
