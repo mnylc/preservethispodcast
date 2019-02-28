@@ -7,22 +7,22 @@ twitter_link: https://twitter.com/preservethispod
 
 applepodcasts_link: https://itunes.apple.com/us/podcast/preserve-this-podcast/id1451896473
 googlepodcasts_link: #
-stitcher_link: #
-radiopublic_link: https://radiopublic.com/preserve-this-podcast-WDJY3A 
+stitcher_link: https://www.stitcher.com/podcast/preserve-this-podcast?refid=stpr
+radiopublic_link: https://radiopublic.com/preserve-this-podcast-WDJY3A
 rss_link: http://preservethispodcast.org/podcast.rss
 
 episodes:
   - name: Prologue—Podcasts are Disappearing
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!f8e4e63fe6cd7c55e2102b378758668d8d766f58
     download_link: https://ia801508.us.archive.org/17/items/PreserveThisPodcast-prologue-podcasts-are-disappearing/PTP_Prologue_MIX_-16LUFS_190206.mp3
-    exercises_link: 
+    exercises_link:
     transcript_file: transcript-00prologue
- 
+
 #   - name: Prepare your Files for Archiving
 #     embed_link: https://embed.radiopublic.com/e?if=SongExploder&ge=s1!ff980151529d68e71f286e7e49ce7142b9d23bad
 #     download_link: https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/song-exploder/b0fe9fa2-8522-4976-8717-4338844a93f7/SongExploder61_CourtneyBarnett_Reissue_DT.mp3
 #     exercises_link: http://google.com
-#     transcript_file: 
+#     transcript_file:
 
 events:
   - name: "On Air Fest"
@@ -41,6 +41,10 @@ events:
     when: "5/11/2019"
     where: "Emeryville, CA"
     url: "http://preservethispodcast.org/404tba.html"
+  - name: "Outlier Podcast Festival"
+    when: "5/18/2019"
+    where: "Austin, TX"
+    url: "http://www.outliercs.com/"
   - name: "ALA Annual Conference"
     when: "6/20 - 6/25/2019"
     where: "Washington, D.C."
@@ -57,7 +61,7 @@ events:
     when: "11/9/2019"
     where: "Denver, CO"
     url: "http://preservethispodcast.org/404tba.html"
-    
+
 past_events:
   - name: "NY Tech Zine Fair"
     when: "12/1/2018"
