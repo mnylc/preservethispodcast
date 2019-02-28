@@ -7,7 +7,7 @@ twitter_link: https://twitter.com/preservethispod
 
 applepodcasts_link: https://itunes.apple.com/us/podcast/preserve-this-podcast/id1451896473
 googlepodcasts_link: #
-stitcher_link: #
+stitcher_link: https://www.stitcher.com/podcast/preserve-this-podcast?refid=stpr
 radiopublic_link: https://radiopublic.com/preserve-this-podcast-WDJY3A 
 rss_link: https://rss.simplecast.com/podcasts/10324/rss
 
@@ -41,6 +41,10 @@ events:
     when: "5/11/2019"
     where: "Emeryville, CA"
     url: "http://preservethispodcast.org/404tba.html"
+ -  name: "Outlier Podcast Festival"
+    when: "5/18/2019"
+    where: "Austin, TX"
+    url: "http://outliercs.com/"    
   - name: "ALA Annual Conference"
     when: "6/20 - 6/25/2019"
     where: "Washington, D.C."
