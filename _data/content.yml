@@ -13,7 +13,7 @@ rss_link: https://rss.simplecast.com/podcasts/10324/rss
 
 episodes:
   - name: Prologue—Podcasts are Disappearing
-    embed_link: #
+    embed_link: https://embed.simplecast.com/33c29a99?color=f5f5f5
     download_link: https://audio.simplecast.com/33c29a99.mp3
     exercises_link:
     transcript_file: transcript-00prologue
