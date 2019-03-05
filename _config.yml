@@ -23,8 +23,16 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-paginate
+
+# Podcast Feed settings
+title:          Preserve This Podcast
+email:          podcast@metro.org
+description:    "Preserve This Podcast is an Andrew W. Mellon grant-funded project hosted by the Metropolitan New York Library Council (METRO) to help podcasters protect their work against the threats of digital decay."
+subtitle:       "A podcast about saving your podcast."
+url:            http://preservethispodcast.org
+language:       en-us
+author:         podPotato
+copyright:      "CC BY 4.0"
 
 feed:
   collections:
@@ -34,12 +42,14 @@ feed:
 collections:
   episodes:
 
-# Podcast Feed Settings
-title:          Preserve This Podcast
-email:          podcast@metro.org
-description:    "Preserve This Podcast is an Andrew W. Mellon grant-funded project hosted by the Metropolitan New York Library Council (METRO) to help podcasters protect their work against the threats of digital decay."
-subtitle:       "A podcast about saving your podcast."
-url:            http://preservethispodcast.org
-language:       en-us
-author:         podPotato
-copyright:      "CC BY 4.0"
+# Redirect settings
+collections:
+    redirects:
+      output: true
+
+defaults:
+  -
+    scope:
+      type: redirects
+    values:
+      layout: redirect
