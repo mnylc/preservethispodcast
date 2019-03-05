@@ -26,9 +26,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-paginate
 
-whitelist:
-  - jekyll-redirect-from
-
 feed:
   collections:
     episodes:
