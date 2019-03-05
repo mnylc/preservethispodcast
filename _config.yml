@@ -23,6 +23,9 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+# Redirect url settings
+gems:
   - jekyll-redirect-from
 
 whitelist:
