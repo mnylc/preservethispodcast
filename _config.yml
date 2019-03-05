@@ -25,6 +25,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
+whitelist:
+  - jekyll-redirect-from
+
 feed:
   collections:
     episodes:
