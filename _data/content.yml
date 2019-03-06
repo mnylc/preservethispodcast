@@ -25,10 +25,6 @@ episodes:
 #     transcript_file:
 
 events:
-  - name: "On Air Fest"
-    when: "3/2/2019"
-    where: "Wythe Hotel, Brooklyn, NY"
-    url: "http://onairfest.com/"
   - name: "Who saves our stories for the future? A Preserve This Podcast Launch Party!"
     when: "3/21/2019"
     where: "METRO 599 11th Ave, NYC"
@@ -63,15 +59,19 @@ events:
     url: "http://preservethispodcast.org/404tba.html"
 
 past_events:
-  - name: "NY Tech Zine Fair"
-    when: "12/1/2018"
-    where: "School for Poetic Computation, 155 Bank St. NYC"
-    url: "http://techzinefair.org/"
-  - name: "Werk It 2018: A Women's Podcast Festival"
-    when: "11/13 + 11/14/2018"
-    where: "Knockdown Center, NYC"
-    url: "https://www.werkitfestival.com/#2018-register"
   - name: "Sound Education"
     when: "11/2 + 11/3/2018"
     where: "Cambridge, MA"
     url: "https://www.soundeducation.fm/"
+  - name: "Werk It 2018: A Women's Podcast Festival"
+    when: "11/13 + 11/14/2018"
+    where: "Knockdown Center, NYC"
+    url: "https://www.werkitfestival.com/#2018-register"
+  - name: "NY Tech Zine Fair"
+    when: "12/1/2018"
+    where: "School for Poetic Computation, 155 Bank St. NYC"
+    url: "http://techzinefair.org/"
+  - name: "On Air Fest"
+    when: "3/2/2019"
+    where: "Wythe Hotel, Brooklyn, NY"
+    url: "http://onairfest.com/"
