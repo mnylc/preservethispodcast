@@ -17,7 +17,7 @@ episodes:
     download_link: https://audio.simplecast.com/33c29a99.mp3
     exercises_link:
     transcript_file: transcript-00prologue
- - name: 01—Time to Take Notice
+  - name: 01—Time to Take Notice
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-GZbya9
     download_link: https://audio.simplecast.com/d2e92a88.mp3
     exercises_link: /#zine
