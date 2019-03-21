@@ -1,4 +1,4 @@
-# Time to Take Notice
+# Time to Take Notice Transcript
 
 MOLLY: When Alice Y. Hom was growing up, it was hard for her to talk to her parents about her love life.
 
@@ -19,7 +19,7 @@ And that was eye-opening for me because I could read about a Chinese American wo
 
 It was huge for me to be able to have that, read that, and realize I'm not alone.
 
-MOLLY: Alice’s bookshelf grew to a couple feet long. But only a couple inches of that bookshelf were taken up by books that reflected her own life experience. Books written by Asian American feminists or lesbians.  As Alice got ready to graduate, she got more and more curious about the lives of women like her.
+MOLLY: Alice’s bookshelf grew to a couple feet long. But only a couple inches of that bookshelf were taken up by books that reflected her own life experience. Books written by Asian American feminists or lesbians. As Alice got ready to graduate, she got more and more curious about the lives of women like her.
 
 ALICE: I knew I couldn't go back to L.A. because like my parents would be there, and I was like, I’m not sure. I was still fearful, you know. About living an open life as a queer person. 
 
