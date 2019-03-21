@@ -7,7 +7,7 @@ JASON: I was downloading thousands of episodes. By just using directories, downl
 
 MOLLY: This machine downloaded podcasts from every source that Jason could find. And then it saved them onto hard drives. The entire setup fit on just one shelf. 
 
-JASON: It was one single machine, Podsucker. 18:01 It was red, it had this beautiful window with these glowing bits inside. And then I put that machine in the basement, running 24/7, running this program, and just constantly going.
+JASON: It was one single machine, Podsucker. It was red, it had this beautiful window with these glowing bits inside. And then I put that machine in the basement, running 24/7, running this program, and just constantly going.
 
 MOLLY: Jason built the podsucker because he was concerned about the future of podcasts. He had a dayjob managing computer servers. He knows something that a lot of people don’t: which is that the stuff we make on computers has a surprisingly short lifespan.  
 
@@ -43,7 +43,7 @@ That’s why this podcast is here. Through this podcast, we’re going to teach 
 
 KAYTLIN: I know how to get the podcast into this box. I don't know how to get the podcast on the internet and I certainly don't know how to preserve things on the internet. 
 
-ALICE : It’s like what, how come I didn’t think about archiving this podcast. And I think it’s because I was just assuming that  19:17 it’s digital and it would always be there 
+ALICE : It’s like what, how come I didn’t think about archiving this podcast. And I think it’s because I was just assuming that it’s digital and it would always be there 
 
  MARY: I kind of think of archives as something that you think is a given. It doesn’t just happen.
 
