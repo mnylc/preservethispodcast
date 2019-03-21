@@ -1,4 +1,4 @@
-# Time to Take Notice Transcript
+# Ep1—Time to Take Notice Transcript
 
 MOLLY: When Alice Y. Hom was growing up, it was hard for her to talk to her parents about her love life.
 
