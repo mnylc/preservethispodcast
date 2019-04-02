@@ -1,13 +1,13 @@
-# Podcasts are Disappearing Transcript
+# Prologue—Podcasts are Disappearing Transcript
 
 MOLLY: Fifteen years ago, in 2004, 
-Jason Scott started building a machine in his basement. He named it .. the Podsucker. And he built it to suck up as many podcasts as he could.
+Jason Scott started building a machine in his basement. He named it... the Podsucker. And he built it to suck up as many podcasts as he could.
 
 JASON: I was downloading thousands of episodes. By just using directories, downloading them as MP3s, and putting them into hard drives, with this kind of self-created archival system.
 
 MOLLY: This machine downloaded podcasts from every source that Jason could find. And then it saved them onto hard drives. The entire setup fit on just one shelf. 
 
-JASON: It was one single machine, Podsucker. 18:01 It was red, it had this beautiful window with these glowing bits inside. And then I put that machine in the basement, running 24/7, running this program, and just constantly going.
+JASON: It was one single machine, Podsucker. It was red, it had this beautiful window with these glowing bits inside. And then I put that machine in the basement, running 24/7, running this program, and just constantly going.
 
 MOLLY: Jason built the podsucker because he was concerned about the future of podcasts. He had a dayjob managing computer servers. He knows something that a lot of people don’t: which is that the stuff we make on computers has a surprisingly short lifespan.  
 
@@ -27,7 +27,7 @@ But then, in 2007, Jason shut off the Podsucker.
 
 Jason figured that as podcasting became more of an official medium, some institution or other would come around and start doing the kind of work that he was doing with the Podsucker.
 
-But that ... never happened. 
+But that... never happened. 
 
 I went through a sample Jason’s Podsucker collection of podcasts from 2005. I did some more searching to see if these podcasts are still online today. I looked for 125 episodes, and I could only find 13 of them.  If Jason hadn’t captured them with his Podsucker, we wouldn’t even know that 87% of these podcasts had ever existed. 
  
@@ -35,7 +35,7 @@ Some media institutions do have an archivist on staff, but that’s pretty rare.
 
 DAVE: It's only a matter of time before all that is GONE, you know. And it's terrible because we are using this medium as if it were indelible. 
 
-MOLLY That’s Dave Winer. He’s a software developer who helped invent podcasting back in 2001, when he wrote MP3 files into an RSS format. He says it’s common for people to lose their content when tech companies fold. 
+MOLLY: That’s Dave Winer. He’s a software developer who helped invent podcasting back in 2001, when he wrote MP3 files into an RSS format. He says it’s common for people to lose their content when tech companies fold. 
 
 DAVE: Well that’s tech companies. And you're giving that to a silo that's going to go out of business one day and swallow all your archives with it. I mean it's hideous what happens. So much good stuff that’s just going to disappear. 
 
@@ -43,7 +43,7 @@ That’s why this podcast is here. Through this podcast, we’re going to teach 
 
 KAYTLIN: I know how to get the podcast into this box. I don't know how to get the podcast on the internet and I certainly don't know how to preserve things on the internet. 
 
-ALICE : It’s like what, how come I didn’t think about archiving this podcast. And I think it’s because I was just assuming that  19:17 it’s digital and it would always be there 
+ALICE: It’s like what, how come I didn’t think about archiving this podcast. And I think it’s because I was just assuming that it’s digital and it would always be there 
 
  MARY: I kind of think of archives as something that you think is a given. It doesn’t just happen.
 
