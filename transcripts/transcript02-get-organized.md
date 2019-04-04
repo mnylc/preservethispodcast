@@ -1,4 +1,4 @@
-#Ep2—Get Organized Transcript
+# Ep2—Get Organized Transcript
 
 MOLLY: If you ask people what inspired them to get into audio storytelling, Ira Glass is usually part of the story. Dan Weissmann is no exception.
 
