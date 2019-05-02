@@ -34,7 +34,7 @@ episodes:
     exercises_link: http://preservethispodcast.org/assets/PreserveThisPodcast_Zine_Online.pdf#page=10
     transcript_file: transcript03-back-it-up
   - name: Ep4—Metadata Meta-awareness
-    embed_link:"https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!b3335c5c7b8a03c28400e85d7c610d97f95aa856" 
+    embed_link:https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!b3335c5c7b8a03c28400e85d7c610d97f95aa856 
     download_link: https://audio.simplecast.com/71a35e18.mp3
     exercises_link: http://preservethispodcast.org/assets/PreserveThisPodcast_Zine_Online.pdf#page=12
     transcript_file: transcript04-metadata-meta-awareness
