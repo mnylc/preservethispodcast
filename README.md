@@ -1,5 +1,8 @@
 # Preserve This Podcast
 
+# About
+This is the code for [preservethispodcast.org] (http://preservethispodcast.org/), the website for the Mellon-grant funded project Preserve This Podcast. This site is built using [Jekyll](https://jekyllrb.com/), a static site generator, on [GitHub Pages](https://pages.github.com/). The instructions for the site build and for podcast hosting will be updated below.
+
 ### Host your podcast website with Jekyll Github pages
 (Documentation to come soon)
 
