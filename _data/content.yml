@@ -46,10 +46,6 @@ episodes:
 #     transcript_file:
 
 events:
-  - name: "Podcast Brunch Club: The Evolution of Libraries"
-    when: "5/2/2019"
-    where: "METRO 599 11th Ave, NYC"
-    url: "https://www.eventbrite.com/e/podcast-brunch-club-nyc-the-evolution-of-libraries-tickets-60881575431"
   - name: "The Center for Investigative Reporting Workshop"
     when: "5/11/2019"
     where: "Emeryville, CA"
@@ -124,3 +120,7 @@ past_events:
     when: "4/18/2019"
     where: "METRO 599 11th Ave, NYC"
     url: "https://www.eventbrite.com/e/union-power-collective-bargaining-in-podcasting-tickets-59453992492"
+  - name: "Podcast Brunch Club: The Evolution of Libraries"
+    when: "5/2/2019"
+    where: "METRO 599 11th Ave, NYC"
+    url: "https://www.eventbrite.com/e/podcast-brunch-club-nyc-the-evolution-of-libraries-tickets-60881575431"
