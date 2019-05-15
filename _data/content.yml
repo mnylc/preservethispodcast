@@ -38,6 +38,11 @@ episodes:
     download_link: https://audio.simplecast.com/71a35e18.mp3
     exercises_link: http://preservethispodcast.org/assets/PreserveThisPodcast_Zine_Online.pdf#page=12
     transcript_file: transcript04-metadata-meta-awareness
+  - name: Ep5—RSS, whatta mess: Constant Vigilance
+    embed_link: 
+    download_link: 
+    exercises_link:
+    transcript_file: transcript05-rss-whatta-mess
 
 #   - name: Prepare your Files for Archiving
 #     embed_link: https://embed.radiopublic.com/e?if=SongExploder&ge=s1!ff980151529d68e71f286e7e49ce7142b9d23bad
@@ -46,10 +51,6 @@ episodes:
 #     transcript_file:
 
 events:
-  - name: "The Center for Investigative Reporting Workshop"
-    when: "5/11/2019"
-    where: "Emeryville, CA"
-    url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-59465285269"
   - name: "University of Texas at Austin Libraries"
     when: "5/17/2019"
     where: "Austin, TX"
@@ -124,3 +125,7 @@ past_events:
     when: "5/2/2019"
     where: "METRO 599 11th Ave, NYC"
     url: "https://www.eventbrite.com/e/podcast-brunch-club-nyc-the-evolution-of-libraries-tickets-60881575431"
+  - name: "The Center for Investigative Reporting Workshop"
+    when: "5/11/2019"
+    where: "Emeryville, CA"
+    url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-59465285269"
