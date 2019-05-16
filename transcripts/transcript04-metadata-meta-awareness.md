@@ -1,3 +1,5 @@
+Ep4—Metadata Meta-Awareness Transcript
+
 MOLLY: On a hot afternoon in July, I visited Kaytlin Bailey at her tiny apartment in Greenwich Village. There were bookshelves covering the walls. I scanned some of the titles -- “Love For Sale.” “Taking the Crime out of Sex Work.” “Sex Workers Unite.” Kaytlin uses these books to do research for her podcast. 
 
 KAYTLIN: Every person on this planet knows might even possibly love somebody that has done some kind of sex work at some point in their life...  we call it the oldest profession. It's all kinds of people who have been doing all kinds of things for all kinds of reasons forever.
