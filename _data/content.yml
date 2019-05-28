@@ -51,14 +51,6 @@ episodes:
 #     transcript_file:
 
 events:
-  - name: "University of Texas at Austin Libraries"
-    when: "5/17/2019"
-    where: "Austin, TX"
-    url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-61124101834"
-  - name: "Outlier Podcast Festival"
-    when: "5/18/2019"
-    where: "Austin, TX"
-    url: "http://outliercs.com/"
   - name: "Podcasts To The Rescue! An Emerging Medium for Learning About Civics, Government, and the Social Contract"
     when: "5/30/2019"
     where: "METRO 599 11th Ave, NYC"
@@ -129,3 +121,11 @@ past_events:
     when: "5/11/2019"
     where: "Emeryville, CA"
     url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-59465285269"
+  - name: "University of Texas at Austin Libraries"
+    when: "5/17/2019"
+    where: "Austin, TX"
+    url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-61124101834"
+  - name: "Outlier Podcast Festival"
+    when: "5/18/2019"
+    where: "Austin, TX"
+    url: "http://outliercs.com/"
