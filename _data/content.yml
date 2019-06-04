@@ -51,10 +51,6 @@ episodes:
 #     transcript_file:
 
 events:
-  - name: "Podcasts To The Rescue! An Emerging Medium for Learning About Civics, Government, and the Social Contract"
-    when: "5/30/2019"
-    where: "METRO 599 11th Ave, NYC"
-    url: "https://www.eventbrite.com/e/podcasts-to-the-rescue-an-emerging-medium-for-learning-about-civics-government-and-the-social-tickets-59456853048"
   - name: "Who Owns Your Content? A Look at Podcaster Rights"
     when: "6/6/2019"
     where: "METRO 599 11th Ave, NYC"
@@ -133,3 +129,7 @@ past_events:
     when: "5/18/2019"
     where: "Austin, TX"
     url: "http://outliercs.com/"
+  - name: "Podcasts To The Rescue! An Emerging Medium for Learning About Civics, Government, and the Social Contract"
+    when: "5/30/2019"
+    where: "METRO 599 11th Ave, NYC"
+    url: "https://www.eventbrite.com/e/podcasts-to-the-rescue-an-emerging-medium-for-learning-about-civics-government-and-the-social-tickets-59456853048"
