@@ -51,10 +51,10 @@ episodes:
 #     transcript_file:
 
 events:
-  - name: "Who Owns Your Content? A Look at Podcaster Rights"
-    when: "6/6/2019"
-    where: "METRO 599 11th Ave, NYC"
-    url: "https://www.eventbrite.com/e/who-owns-your-content-a-look-at-podcaster-rights-tickets-59491509707"
+  - name: "AVA_Net Symposium"
+    when: "6/20/2019"
+    where: "online via Hilversum, Netherlands"
+    url: "https://www.avanet.nl/symposium/"
   - name: "The Labs at DC Public Library"
     when: "6/21/2019"
     where: "Washington, D.C."
@@ -133,3 +133,7 @@ past_events:
     when: "5/30/2019"
     where: "METRO 599 11th Ave, NYC"
     url: "https://www.eventbrite.com/e/podcasts-to-the-rescue-an-emerging-medium-for-learning-about-civics-government-and-the-social-tickets-59456853048"
+  - name: "Who Owns Your Content? A Look at Podcaster Rights"
+    when: "6/6/2019"
+    where: "METRO 599 11th Ave, NYC"
+    url: "https://www.eventbrite.com/e/who-owns-your-content-a-look-at-podcaster-rights-tickets-59491509707"
