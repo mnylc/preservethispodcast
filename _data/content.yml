@@ -51,10 +51,6 @@ episodes:
 #     transcript_file:
 
 events:
-  - name: "AVA_Net Symposium"
-    when: "6/20/2019"
-    where: "online via Hilversum, Netherlands"
-    url: "https://www.avanet.nl/symposium/"
   - name: "The Labs at DC Public Library"
     when: "6/21/2019"
     where: "Washington, D.C."
