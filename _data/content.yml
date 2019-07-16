@@ -66,11 +66,11 @@ events:
   - name: "PRX Podcast Garage"
     when: "10/19/2019"
     where: "Boston, MA"
-    url: "http://preservethispodcast.org/404tba.html"
+    url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-65529078237"
   - name: "House of Pod"
     when: "11/9/2019"
     where: "Denver, CO"
-    url: "http://preservethispodcast.org/404tba.html"
+    url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-65529615845"
 
 past_events:
   - name: "Sound Education"
