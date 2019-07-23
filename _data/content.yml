@@ -51,10 +51,18 @@ episodes:
 #     transcript_file:
 
 events:
-  - name: "Podcast Movement"
-    when: "8/13-16/2019"
+  - name: "[Podcast Movement] The State of the Indie"
+    when: "8/13/2019"
     where: "Orlando, FL"
-    url: "https://podcastmovement.com/"
+    url: "https://embed.pheedloop.com/pm19/site/sessions/?id=Izhlxp"
+  - name: "[Podcast Movement] Get Paid to Podcast: The Next Frontier"
+    when: "8/13/2019"
+    where: "Orlando, FL"
+    url: "https://embed.pheedloop.com/pm19/site/sessions/?id=saPtnw"
+  - name: "[Podcast Movement] It’s the year 2039. Where’s your podcast? (A Preserve This Podcast workshop)"
+    when: "8/15/2019"
+    where: "Orlando, FL"
+    url: "https://embed.pheedloop.com/pm19/site/sessions/?event=pm19&section=9071&id=ZhMQUK"
   - name: "Center for Documentary Studies Workshop"
     when: "9/14/2019"
     where: "Durham, NC"
