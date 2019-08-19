@@ -6,7 +6,7 @@ This is the code for [preservethispodcast.org](http://preservethispodcast.org/),
 ### Host your podcast website with Jekyll Github pages
 (Documentation to come soon)
 
-### Host your own RSS feed and saving your files to [Internet Archive](https://archive.org/)
+### Host your own RSS feed and saving your files to [Internet Archive](https://archive.org/details/@preservethispodcast)
 **(Final files will be ready by January 2020)**
 
 Directories and files to create/edit:
