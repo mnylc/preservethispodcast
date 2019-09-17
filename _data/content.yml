@@ -52,10 +52,6 @@ episodes:
 
 events:
 
-  - name: "Center for Documentary Studies Workshop"
-    when: "9/14/2019"
-    where: "Durham, NC"
-    url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-65539314855"
   - name: "The Bubbler at Madison Public Library"
     when: "9/21/2019"
     where: "Madison, WI"
@@ -167,3 +163,7 @@ past_events:
     when: "8/15/2019"
     where: "Orlando, FL"
     url: "https://embed.pheedloop.com/pm19/site/sessions/?id=OOcAbX"
+  - name: "Center for Documentary Studies Workshop"
+    when: "9/14/2019"
+    where: "Durham, NC"
+    url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-65539314855"
