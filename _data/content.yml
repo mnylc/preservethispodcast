@@ -72,6 +72,14 @@ events:
     when: "11/9/2019"
     where: "Denver, CO"
     url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-65529615845"
+  - name: "Preserve This Podcast 2-Part Webinar"
+    when: "11/20-21/2019"
+    where: "On your computer/phone"
+    url: "http://preservethispodcast.org/pages/404tba.html"
+  - name: "ALCTS Webinar"
+    when: "12/04/2019"
+    where: "On your computer/phone"
+    url: "http://www.ala.org/alcts/confevents/upcoming/webinar"
 
 past_events:
 
