@@ -14,12 +14,12 @@ rss_link: https://rss.simplecast.com/podcasts/10324/rss
 
 episodes:
   - name: Prologue—Podcasts are Disappearing
-    embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-GZbya9
+    embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!f8e4e63fe6cd7c55e2102b378758668d8d766f58
     download_link: https://audio.simplecast.com/33c29a99.mp3
     exercises_link:
     transcript_file: transcript-00prologue
   - name: Ep1—Time to Take Notice
-    embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-GZbya9
+    embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!79bb33dadbe8c03e17a417879a02e0d005395047
     download_link: https://audio.simplecast.com/d2e92a88.mp3
     exercises_link: /#zine
     transcript_file: trancript01-time-to-take-notice
