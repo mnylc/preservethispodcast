@@ -51,10 +51,6 @@ episodes:
 
 events:
 
-  - name: "House of Pod"
-    when: "11/9/2019"
-    where: "Denver, CO"
-    url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-65529615845"
   - name: "ALCTS Webinar"
     when: "12/04/2019"
     where: "On your computer/phone"
@@ -176,3 +172,7 @@ past_events:
     when: "10/19/2019"
     where: "Boston, MA"
     url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-65529078237"
+  - name: "House of Pod"
+    when: "11/9/2019"
+    where: "Denver, CO"
+    url: "https://www.eventbrite.com/e/its-the-year-2039-wheres-your-podcast-a-preserve-this-podcast-workshop-tickets-65529615845"
