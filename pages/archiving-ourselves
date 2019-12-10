@@ -1,0 +1,99 @@
+---
+layout: default
+---
+<section id="generic" class="section">
+	<div class="container">
+		<div class="columns is-centered">
+			<div class="column is-two-thirds-tablet">
+				<div class="content">
+					<h1>Archiving the Preserve This Podcast Project</h1>
+
+<h3>Archiving the Podcast Files</h3>
+<h6>MOLLY SCHWARTZ</h6>
+
+<p>
+Throughout the course of producing the podcast I have been using Backblaze on my entire laptop for $60 / year. This is a pretty quick and easy way of making sure I don’t lose my files in the short term. I have a lot of storage space on my computer, so I just stored all of my audio files and sessions on my computer, and backed them up on Backblaze. In addition, I uploaded all of my raw interview wav files to Google Drive, in the folder of the podcast episode for which we were using them.
+</p>
+<p>
+According to my Backblaze account, 95,535 files / 103,471 MB have been selected for backup and are hanging out on Backblaze. To be honest, this number seems low. I suspect that it’s because I’ve had iCloud running in the background, caching files. This is concerning.
+</p>
+<p>
+For my own projects in the future, I would probably save my files to B2, Backblaze’s cloud storage service (comparable to Amazon S3). This requires recurring payments for Backblaze to keep it.
+</p>
+<p>
+Since the project is wrapping up and the goal is to delete all my audio files and sessions off of this computer and get them safely backed up in multiple locations, I’m going through the process of consolidating, weeding, downloading, labeling and moving things onto hard drives.
+</p>
+<p>
+All of my Reaper session files and raw audio files are under a master folder called “REAPER Media” on my laptop. Within that folder there is a folder called “PTP,” which includes all of the Preserve This Podcast files. Within that folder there are Episode folders, like “Episode 1,” which includes all of the working files. Session files are in the Episode 1 folder, and all of the raw audio is in a folder within the Episode 1 folder called “media.” I pulled the final mixes out into separate folders for ease of reference, called “Episode 1 Final Mixes,” “Episode 2 Final,” etc.
+</p>
+<INSERT SCREENSHOT>
+<p>
+Then I downloaded the “Podcast” folder from our “Preserve This Podcast” shared Google Drive folder, which includes all of my podcast episode scripts and interview transcripts, as well as some audio files (mostly narration).
+</p>
+<p>
+I then copied over my “PTP Mellon” folder from my computer to the hard drive.
+</p>
+<p>
+Then I zipped the entire folder called “PreserveThisPodcast” and sent it to my team members, Mary, Dana, and Sarah, via WeTransfer.
+</p>
+
+<h3>Archiving the Zine Files</p>
+<h6>MARY KIDD</h6>
+
+<p>
+Hi, I’m Mary, and I made/illustrated the Preserve This Podcast zine. My illustrations start off on paper and end up on the web so my personal archive consists of physical, digital and web components that will all need to be preserved in some way.
+</p>
+<p>
+My creative process (and resulting files) looks like this:
+  <ul>
+  <li>Draw the drawing on a piece of paper. I’ll usually cram a bunch of vignettes onto a single piece of paper.</li>
+  <li>Scan and save drawings to my home computer. My scanner only scans to JPEG or PDF. Since JPEG is a lossy file format, I scan to PDF at the highest resolution possible (600dpi).</li>
+  <li>The PDF scan is what I consider a “mezzanine” file. I only use this file to make derivatives, otherwise it’s never altered. I drag and drop the PDFs into a folder on my personal computer called original_pdf_scans (See Figure A.).</li>
+  <li>I used Photoshop to crop out and copy what I want from the PDF and create a new Photoshop (PSD) file. I use Photoshop to color/layer/apply special effects. I save the PSD file in of itself, but also make a derivative file in PNG format.</li>
+  <li>I upload and lay out the PNG files using Google Draw. Each zine page gets its own distinct Google Drawing file (See Figure B).</li>
+  </ul>
+</p>
+<p>
+My 3-2-1 backup plan looks like this:
+  <ul>
+  <li>Perform monthly backups to my Seagate external 1TB hard drive. I set a Google calendar reminder to ping me when this is due. Since I share a computer with my husband, the entire transfer of all of our stuff over a standard USB cable takes approximately 8 hours to transfer 64,694 files, 3,887 folders totalling 411 GB (442,373,103,093 bytes). We usually do this at night while we are sleeping.
+  </li>
+  <li>Perform backups to 2 additional external hard drives using a hard drive clone device. I send one hard drive to my family out on the west coast through the mail, and keep another one in my desk at the New York Public Library.
+  </li>
+  <li>I keep all of my hard drives in a protective waterproof case, in a static-protective plastic bag.</li>
+  <li>Data sync using Dropbox (1 TB/year annual plan). However! Since working with PTP, I’ve decided at the end of my subscription (December 2019) to go with Backblaze.</li>
+  <li>In addition, the PTP team is backing up their Google Drive folders using Google Takeout, so the zine page layouts will be saved in this way. I also downloaded the “zine_layout” folder as a zip file and saved that folded that into my personal 3-2-1 backup mix.</li>
+  <li>As for my drawings on paper: I keep these in a flat file drawer in my apartment in Brooklyn. I hope to one day resleeve/rehouse them in acid-free archival folders and boxes.</li>
+  </ul>
+</p>
+
+<INSERT SCREENSHOT>
+Figure A: A screenshot of my folder structure on my home workstation:
+
+<INSERT SCREENSHOT>
+Figure. B: A screenshot of the PTP Google Drive “zine_layout” folder:
+
+<h3>Archiving the Website</p>
+<h6>Dana Gerber-Margie</h6>
+
+<p>
+Archive onto the Internet Archive's <a href="https://web.archive.org/save/http://preservethispodcast.org/">Wayback Machine</a>
+</p>
+<ul>
+<li>
+Walked through the website through Wayback Machine to also save links, such as to the survey, the zine, the reading list, etc. The Wayback Machine does not do this automatically.</li>
+<li>Also saved our Zotero library</li>
+</ul>
+</p>
+<p>
+Archive Git repo: tba
+</p>
+<p>
+Archive on webrecorder.io
+<ul>
+<li>Saves as WARC file that is accessible through web recorder player (<a href="https://guide.webrecorder.io/">webrecorder guide</a>)</li>
+<li>
+Under <a href="https://webrecorder.io/danaegm/preserve-this-podcast">https://webrecorder.io/danaegm/preserve-this-podcast</a>. Aim it to a website and then “Start Capture”. Click through the website to capture it. To see it again, go to "Browse All".</li>
+<li>Download and save the WARC file onto the 3-2-1 backup plan</li>
+</ul>
+</p>
