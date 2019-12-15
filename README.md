@@ -6,14 +6,15 @@ This is the codebase for [preservethispodcast.org](http://preservethispodcast.or
 Below are instructions on how to copy this website and how to host your own podcast RSS feed within the web browser. There is a command line option for those who are more comfortable for Git but this guide is for those who like graphical user interfaces (GUIs). This setup has been tested in Jekyll with GitHub Pages only. Feel free to test this on other Git hosting platforms (e.g. GitLab or Bitbucket), and any other static site generator (e.g. Nikola, Hugo). Then let us know how it goes!
 
 Maintainer: [@michi-gato](https://github.com/michi-gato)
- 
+
 The straightforward way to get your podcast website + RSS feed started is to copy this podcast-template repository and then customize your version from there. 
 1. Create a GitHub account and log into your account
-2. Navigate to PTP template repository: michi-gato/podcast-template
+2. Navigate to PTP template repository: [michi-gato/podcast-template](https://github.com/mnylc/preservethispodcast)
 3. Click on the green “Use this template” button in the top right corner of the main page. This will create your own repository of the PTP website and RSS feed without touching the existing PTP site build. Here are step-by-step instructions on how to create a repository from a template. (From here on out, let’s call the back end editing view, the repository, and the website will be the front end view).
-[INSERT SCREENSHOT OF GREEN BUTTON]
+![use-this-template_button](assets/images/green_button.png)
 4. You will be redirected to a page where you’ll create your URL (repository name). Make sure to make this public so that podcatchers can find your RSS feed.
 5. Click the green button, “Create repository from template”
+![create-repo_button](assets/images/create-repo_button.png)
 6. You’ll be redirected to the main back end editing page of your repository. Now it’s time to customize/manage your website. 
 7. If you already have a website, skip to Step 8. For those who want to build out your own show/organization website, here are some helpful introductory resources on how GitHub Pages works. You can customize this site to reflect your own website through  the files that correspond to specific sections/pages of the site. Our own website was built following these types of 
    * [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/) by Jonathan McGlone
