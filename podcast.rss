@@ -27,7 +27,7 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/assets/images/PTP_logo_itunes.png" />
+		<itunes:image href="{{ site.url }}/assets/images/PTP_logo_itunes.jpg" />
 		<itunes:category text="Technology" />
 		<itunes:category text="Education">
 			<itunes:category text="Podcasting" />
@@ -50,7 +50,7 @@
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
-				<itunes:image href="{{ site.url }}/assets/images/PTP_logo_itunes.png" />
+				<itunes:image href="{{ site.url }}/assets/images/PTP_logo_itunes.jpg" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
 			</item>
