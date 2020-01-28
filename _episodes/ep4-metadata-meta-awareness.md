@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ep4 - Metadata Meta-awareness"
+title: "Ep4: Metadata Meta-awareness"
 date: 2019-05-02 09:00:00
 file: https://ia801001.us.archive.org/22/items/PreserveThisPodcastEpisode4/PreserveThisPodcast_Episode4.mp3
 file_itunes: https://ia801001.us.archive.org/22/items/PreserveThisPodcastEpisode4/PreserveThisPodcast_Episode4.mp3

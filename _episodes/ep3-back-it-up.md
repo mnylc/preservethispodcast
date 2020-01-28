@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preserve This Podcast Episode 3: Back it up"
+title: "Episode 3: Back it up"
 date: 2019-04-18 09:00:00
 file: https://ia801001.us.archive.org/18/items/PreserveThisPodcastEpisode3/PreserveThisPodcast_Episode3.mp3
 file_itunes: https://ia801001.us.archive.org/18/items/PreserveThisPodcastEpisode3/PreserveThisPodcast_Episode3.mp3

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preserve This Podcast Episode 1 - Time to Take Notice"
+title: "Episode 1: Time to Take Notice"
 date: 2019-03-21 09:00:00
 file: https://ia803005.us.archive.org/28/items/PreserveThisPodcastEpisode1/PreserveThisPodcast_Episode1.mp3
 file_itunes: https://ia803005.us.archive.org/28/items/PreserveThisPodcastEpisode1/PreserveThisPodcast_Episode1.mp3

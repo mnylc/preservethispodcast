@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preserve This Podcast Episode 2: Get Organized"
+title: "Episode 2: Get Organized"
 date: 2019-04-04 09:00:00
 file: https://ia801004.us.archive.org/25/items/PreserveThisPodcastEpisode2/PreserveThisPodcast_Episode2.mp3
 file_itunes: https://ia801004.us.archive.org/25/items/PreserveThisPodcastEpisode2/PreserveThisPodcast_Episode2.mp3

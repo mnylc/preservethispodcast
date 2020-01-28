@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Preserve This Podcast Episode 5 - RSS Resuscitations"
+title: "Episode 5: RSS Resuscitations"
 date: 2019-05-16 09:00:00
 file: https://ia801506.us.archive.org/15/items/PreserveThisPodcastEpisode5/PreserveThisPodcast_Episode5.mp3
 file_itunes: https://ia801506.us.archive.org/15/items/PreserveThisPodcastEpisode5/PreserveThisPodcast_Episode5.mp3
