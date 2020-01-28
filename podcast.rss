@@ -53,6 +53,7 @@
 				<itunes:image href="{{ site.url }}/assets/images/PTP_logo_itunes.jpg" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
+				<itunes:new-feed-url>http://preservethispodcast.org/podcast.rss</itunes:new-feed-url>
 			</item>
 		{% endfor %}
 	</channel>
