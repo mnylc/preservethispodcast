@@ -10,37 +10,37 @@ applepodcasts_link: https://itunes.apple.com/us/podcast/preserve-this-podcast/id
 googlepodcasts_link: #
 stitcher_link: https://www.stitcher.com/podcast/preserve-this-podcast?refid=stpr
 radiopublic_link: https://radiopublic.com/preserve-this-podcast-GZbya9
-rss_link: https://rss.simplecast.com/podcasts/10324/rss
+rss_link: http://preservethispodcast.org/podcast.rss
 
 episodes:
   - name: Prologue—Podcasts are Disappearing
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!f8e4e63fe6cd7c55e2102b378758668d8d766f58
-    download_link: https://audio.simplecast.com/33c29a99.mp3
+    download_link: https://ia801508.us.archive.org/17/items/PreserveThisPodcast-prologue-podcasts-are-disappearing/PTP_Prologue_MIX_-16LUFS_190206.mp3
     exercises_link:
     transcript_file: transcript-00prologue
   - name: Ep1—Time to Take Notice
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!79bb33dadbe8c03e17a417879a02e0d005395047
-    download_link: https://audio.simplecast.com/d2e92a88.mp3
+    download_link: https://ia803005.us.archive.org/28/items/PreserveThisPodcastEpisode1/PreserveThisPodcast_Episode1.mp3
     exercises_link: /#zine
     transcript_file: trancript01-time-to-take-notice
   - name: Ep2—Get Organized
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!8656cc15c4c5d699b0d9e755db6853b3efa79ee2
-    download_link: https://audio.simplecast.com/c423d600.mp3
+    download_link: https://ia801004.us.archive.org/25/items/PreserveThisPodcastEpisode2/PreserveThisPodcast_Episode2.mp3
     exercises_link: http://preservethispodcast.org/assets/PreserveThisPodcast_Zine_Online.pdf#page=5
     transcript_file: transcript02-get-organized
   - name: Ep3—Back it up
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!d102a0be8c47c1fc7041b433620c3c83ab2592fe
-    download_link: https://audio.simplecast.com/ef4681be.mp3
+    download_link: https://ia801001.us.archive.org/18/items/PreserveThisPodcastEpisode3/PreserveThisPodcast_Episode3.mp3
     exercises_link: http://preservethispodcast.org/assets/PreserveThisPodcast_Zine_Online.pdf#page=10
     transcript_file: transcript03-back-it-up
   - name: Ep4—Metadata Meta-awareness
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!b3335c5c7b8a03c28400e85d7c610d97f95aa856
-    download_link: https://audio.simplecast.com/71a35e18.mp3
+    download_link: https://ia801001.us.archive.org/22/items/PreserveThisPodcastEpisode4/PreserveThisPodcast_Episode4.mp3
     exercises_link: http://preservethispodcast.org/assets/PreserveThisPodcast_Zine_Online.pdf#page=12
     transcript_file: transcript04-metadata-meta-awareness
   - name: Ep5—RSS Resuscitations
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!7df2c9dcfbc5eafd812949bf79e71a9ee6b44604
-    download_link: https://audio.simplecast.com/f0c9969e.mp3
+    download_link: https://ia801506.us.archive.org/15/items/PreserveThisPodcastEpisode5/PreserveThisPodcast_Episode5.mp3
     exercises_link:
     transcript_file: transcript05-rss-resuscitations
 
