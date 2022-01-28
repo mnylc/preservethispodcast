@@ -51,7 +51,7 @@ The straightforward way to get your podcast website + RSS feed started is to cop
    * pages / 404tba.html controls the 404 error page that visitors see when something is broken. Customize it to your style 
    * pages / about.html controls the About page. Shout-out to all the players and creators.
    * transcripts : this folder will hold each episode transcript 
-   * transcripts / trancript01-time-to-take-notice.md this is the individual episode trancript. Be sure to write this in markdown and to settle on a standard and orderly naming convention for the consecutive transcript files.
+   * transcripts / transcript01-time-to-take-notice.md this is the individual episode trancript. Be sure to write this in markdown and to settle on a standard and orderly naming convention for the consecutive transcript files.
    * README this will be displayed on the bottom of your main repository page. This is standard good practice for any software or codebase. Generally, this should include text about your project, how the code works, and other useful things you want the vast world of internet users to know about.
    * _config.yml holds the website builder, Jekyll Configurations. You’ll need to personalize the website by adding your `title`, `description`, `url`. Keep `baseurl` as just the quotes.
       * The only other section you need to worry about is the `# Podcast Feed settings`. Those fields will feed to podcatchers.

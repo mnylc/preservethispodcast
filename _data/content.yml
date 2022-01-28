@@ -17,12 +17,12 @@ episodes:
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!f8e4e63fe6cd7c55e2102b378758668d8d766f58
     download_link: https://ia801508.us.archive.org/17/items/PreserveThisPodcast-prologue-podcasts-are-disappearing/PTP_Prologue_MIX_-16LUFS_190206.mp3
     exercises_link:
-    transcript_file: transcript-00prologue
+    transcript_file: transcript00-prologue
   - name: Ep1—Time to Take Notice
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!79bb33dadbe8c03e17a417879a02e0d005395047
     download_link: https://ia803005.us.archive.org/28/items/PreserveThisPodcastEpisode1/PreserveThisPodcast_Episode1.mp3
     exercises_link: /#zine
-    transcript_file: trancript01-time-to-take-notice
+    transcript_file: transcript01-time-to-take-notice
   - name: Ep2—Get Organized
     embed_link: https://embed.radiopublic.com/e?if=preserve-this-podcast-WDJY3A&ge=s1!8656cc15c4c5d699b0d9e755db6853b3efa79ee2
     download_link: https://ia801004.us.archive.org/25/items/PreserveThisPodcastEpisode2/PreserveThisPodcast_Episode2.mp3
