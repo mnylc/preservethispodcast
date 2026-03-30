@@ -2,8 +2,8 @@
 layout: post
 title: "Ep4: Metadata Meta-awareness"
 date: 2019-05-02 09:00:00
-file: https://ia801001.us.archive.org/22/items/PreserveThisPodcastEpisode4/PreserveThisPodcast_Episode4.mp3
-file_itunes: https://ia801001.us.archive.org/22/items/PreserveThisPodcastEpisode4/PreserveThisPodcast_Episode4.mp3
+file: https://archive.org/download/PreserveThisPodcastEpisode4/PreserveThisPodcast_Episode4.mp3
+file_itunes: https://archive.org/download/PreserveThisPodcastEpisode4/PreserveThisPodcast_Episode4.mp3
 excerpt: Metadata makes podcast files accessible. Follow Kaytlin Bailey, host of the Oldest Profession podcast, as she tries to make little-known histories of sex work accessible, now and in the future. We will cover MP3 ID3 tags, episode descriptions, transcripts, and how machine learning will affect podcast discovery. Featuring host and producer Molly Schwartz, and archivists Dana Gerber-Margie and Mary Kidd. Find out more, download our zine (p.12), and RSVP to our traveling workshops at [preservethispodcast.org].
 summary: Metadata makes podcast files accessible. Follow Kaytlin Bailey, host of the Oldest Profession podcast, as she tries to make little-known histories of sex work accessible, now and in the future. We will cover MP3 ID3 tags, episode descriptions, transcripts, and how machine learning will affect podcast discovery. Featuring host and producer Molly Schwartz, and archivists Dana Gerber-Margie and Mary Kidd. Find out more, download our zine (p.12), and RSVP to our traveling workshops at [preservethispodcast.org].
 duration: "26:30" #audio length in min

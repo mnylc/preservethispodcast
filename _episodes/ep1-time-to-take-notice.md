@@ -2,8 +2,8 @@
 layout: post
 title: "Episode 1: Time to Take Notice"
 date: 2019-03-21 09:00:00
-file: https://ia601301.us.archive.org/27/items/PreserveThisPodcastEpisode1/PreserveThisPodcast_Episode1.mp3
-file_itunes: https://ia601301.us.archive.org/27/items/PreserveThisPodcastEpisode1/PreserveThisPodcast_Episode1.mp3
+file: https://archive.org/download/PreserveThisPodcastEpisode1/PreserveThisPodcast_Episode1.mp3
+file_itunes: https://archive.org/download/PreserveThisPodcastEpisode1/PreserveThisPodcast_Episode1.mp3
 excerpt:  Alice Y. Hom is an oral historian who is trying to turn the interviews she’s collected into a new podcast, called Historically Queer. But even though Alice has devoted her life to preserving overlooked pieces of history, she has no idea how to preserve her podcast. Find out more, download our zine, and RSVP to our workshops at [preservethispodcast.org].
 summary: Alice Y. Hom is an oral historian who is trying to turn the interviews she’s collected into a new podcast, called Historically Queer. But even though Alice has devoted her life to preserving overlooked pieces of history, she has no idea how to preserve her podcast. Find out more, download our zine, and RSVP to our workshops at [preservethispodcast.org].
 duration: "14:19" #audio length in min
